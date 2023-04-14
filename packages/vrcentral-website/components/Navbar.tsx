@@ -1,13 +1,13 @@
 "use client";
 
 import clsx from "clsx";
-import { useSession, signIn, signOut } from "next-auth/react";
-import { HOST } from "@app/env";
+import { HOST } from "@app/env-client";
 import { useRouter, usePathname } from "next/navigation";
 import { FaviconSvg } from "./FaviconSvg";
 import { LoginSvg } from "./LoginSvg";
 import { Button } from "./Button";
 import Link from "next/link";
+import { SIGN_IN } from "@app/routes";
 
 interface NavbarProps {
   bottomBorder?: boolean;
@@ -22,7 +22,7 @@ export const Navbar = (props: NavbarProps) => {
       className={clsx(
         "fixed w-full z-20 top-0 left-0",
         props.bottomBorder && "border-b border-zinc-600",
-        pathname === "/auth/signin" && "hidden",
+        pathname === SIGN_IN && "hidden",
       )}
     >
       <div
