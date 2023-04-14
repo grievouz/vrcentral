@@ -1,4 +1,4 @@
-> **Note**: This project is currently under development and may not be fully functional. If you're interested in helping to improve the site or have any feedback, please feel free to fork this repository, make your changes, and submit a pull request.
+> **Note**: This project is currently under development and may not be fully functional. If you encounter any issues or have any suggestions, please feel free to open an issue or submit a pull request on the GitHub repository.
 
 <p align="center">
   <a>
