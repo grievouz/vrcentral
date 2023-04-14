@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Bad for accessibility */
+textarea:focus, input:focus{
+    outline: none;
+}

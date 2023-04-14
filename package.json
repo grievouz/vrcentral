@@ -1,0 +1,9 @@
+{
+  "name": "vrcentral",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.5.0"
+}

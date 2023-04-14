@@ -1,0 +1,13 @@
+{
+  "name": "prettier-vrcentral-config",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "eslint-vrcentral-config": "workspace:*"
+  },
+  "peerDependencies": {
+    "eslint": ">=8",
+    "prettier": ">=2"
+  }
+}

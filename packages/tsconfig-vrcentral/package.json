@@ -1,0 +1,9 @@
+{
+  "name": "tsconfig-vrcentral",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "eslint-vrcentral-config": "workspace:*",
+    "prettier-vrcentral-config": "workspace:*"
+  }
+}
