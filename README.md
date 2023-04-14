@@ -16,4 +16,4 @@ The VRCentral is a community-driven platform for hosting and distributing open-s
 Contributions to `vrcentral` are welcome! Please open an issue or submit a pull request on the GitHub repository.
 
 ## License
-`vrcentral` is released under the [Unlicense](LICENSE.md). This means the code is in the public domain, and you can use, modify, and distribute it without any restrictions. For more information, please see the [Unlicense website](https://unlicense.org/).z
+`vrcentral` is released under the [Unlicense](LICENSE.md). This means the code is in the public domain, and you can use, modify, and distribute it without any restrictions. For more information, please see the [Unlicense website](https://unlicense.org/).
